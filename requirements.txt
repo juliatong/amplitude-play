@@ -1,0 +1,3 @@
+flask
+amplitude-analytics
+python-dotenv
